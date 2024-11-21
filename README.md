@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a tech enthusiast with over **5+ years** of ex
 
 ## 💡 About Me
 
-- 🔭 **Currently Working At:** [Foundit (Monster.com)](https://www.monster.com/)  
-  - Leading the design of a high-traffic event portal and migrating services to **Next.js**, resulting in significant performance boosts.
-  - Developing innovative solutions like a custom Excel tool for seamless internal workflows.
+- 🔭 **Current Focus:**  
+  - Leading the design of high-traffic web portals and optimizing performance using **Next.js** and advanced techniques.
+  - Developing innovative tools for seamless workflows and enhancing user experience.
 
 - 🌱 **Exploring:** Advanced **performance optimization** techniques and deeper insights into **user engagement tracking**.
 
@@ -28,28 +28,34 @@ Welcome to my GitHub profile! I'm a tech enthusiast with over **5+ years** of ex
 - **Languages & Frameworks:**  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 - **UI Libraries & Tools:**  
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-  ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white)
+  ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white)  
+  ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?logo=ant-design&logoColor=white)
 
-- **Testing & CI/CD:**  
+- **DevOps & Tools:**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+  ![CI/CD](https://img.shields.io/badge/-CI/CD-239120?logo=github-actions&logoColor=white)  
+
+- **Testing & Architecture:**  
   ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)  
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white)  
+  Micro Frontend Architecture | Test Driven Development (TDD)
 
-- **Other Tools & Skills:**  
-  Micro Frontend Architecture | Accessibility (WCAG) | Performance Optimization | State Management
+- **Other Skills:**  
+  Accessibility (**WCAG**) | Performance Optimization | Agile Methodologies | Mentoring | Branch Management  
 
 ---
 
 ## 📈 Career Highlights
 
-- 🚀 **Page Speed Optimization:** Improved page load speed by **25%** and enhanced user experiences using lazy loading and code splitting.
-- 🧩 **Scalable Architecture:** Designed a micro frontend system, boosting development efficiency by **30%**.
-- ✅ **Quality Code:** Achieved **90%+ test coverage**, reducing bugs by **40%**.
-- 💳 **Payment Integration:** Integrated **Razorpay**, increasing transaction success rates by **15%**.
+- 🚀 **Page Speed Optimization**
+- 🧩 **Scalable Architecture**
+- ✅ **Quality Code**
+- 💳 **Payment Integration**
 
 ---
 
